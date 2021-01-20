@@ -1,2 +1,2 @@
-# Testing - Python
+# Testing
 A bunch of tests.
